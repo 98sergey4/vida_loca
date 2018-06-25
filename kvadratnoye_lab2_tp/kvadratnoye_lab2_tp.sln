@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kvadratnoye_lab2_tp", "kvadratnoye_lab2_tp\kvadratnoye_lab2_tp.csproj", "{A57874DD-F15D-4BC8-87E1-FD7823BA8A2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest_lab_2", "UnitTest_lab_2\UnitTest_lab_2.csproj", "{43691A4E-FE58-45D0-A82E-DB835716F9F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A57874DD-F15D-4BC8-87E1-FD7823BA8A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A57874DD-F15D-4BC8-87E1-FD7823BA8A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A57874DD-F15D-4BC8-87E1-FD7823BA8A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A57874DD-F15D-4BC8-87E1-FD7823BA8A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43691A4E-FE58-45D0-A82E-DB835716F9F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43691A4E-FE58-45D0-A82E-DB835716F9F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43691A4E-FE58-45D0-A82E-DB835716F9F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43691A4E-FE58-45D0-A82E-DB835716F9F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFD937D4-33CD-477B-910B-76BAEF1D2960}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\s.chyshkala\Desktop\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\bin\Release\kvadratnoye_lab2_tp.exe.config
+C:\Users\s.chyshkala\Desktop\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\bin\Release\kvadratnoye_lab2_tp.exe
+C:\Users\s.chyshkala\Desktop\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\bin\Release\kvadratnoye_lab2_tp.pdb
+C:\Users\s.chyshkala\Desktop\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\obj\Release\kvadratnoye_lab2_tp.csprojResolveAssemblyReference.cache
+C:\Users\s.chyshkala\Desktop\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\obj\Release\kvadratnoye_lab2_tp.Form1.resources
+C:\Users\s.chyshkala\Desktop\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\obj\Release\kvadratnoye_lab2_tp.Properties.Resources.resources
+C:\Users\s.chyshkala\Desktop\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\obj\Release\kvadratnoye_lab2_tp.csproj.GenerateResource.Cache
+C:\Users\s.chyshkala\Desktop\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\obj\Release\kvadratnoye_lab2_tp.exe
+C:\Users\s.chyshkala\Desktop\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\obj\Release\kvadratnoye_lab2_tp.pdb
+C:\Users\s.chyshkala\Desktop\Семестр 2.4\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\bin\Release\kvadratnoye_lab2_tp.exe.config
+C:\Users\s.chyshkala\Desktop\Семестр 2.4\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\obj\Release\kvadratnoye_lab2_tp.exe
+C:\Users\s.chyshkala\Desktop\Семестр 2.4\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\obj\Release\kvadratnoye_lab2_tp.pdb
+E:\lab2training\try1\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\bin\Release\kvadratnoye_lab2_tp.exe.config
+E:\lab2training\try1\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\obj\Release\kvadratnoye_lab2_tp.exe
+E:\lab2training\try1\kvadratnoye_lab2_tp\kvadratnoye_lab2_tp\obj\Release\kvadratnoye_lab2_tp.pdb
