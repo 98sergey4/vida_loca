@@ -1,0 +1,9 @@
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\bin\Release\WF_lab3.exe.config
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\bin\Release\WF_lab3.exe
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\bin\Release\WF_lab3.pdb
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\obj\Release\WF_lab3.Form1.resources
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\obj\Release\WF_lab3.Properties.Resources.resources
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\obj\Release\WF_lab3.csproj.GenerateResource.Cache
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\obj\Release\WF_lab3.exe
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\obj\Release\WF_lab3.pdb
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\obj\Release\WF_lab3.csprojResolveAssemblyReference.cache

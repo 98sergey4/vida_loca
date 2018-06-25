@@ -1,0 +1,9 @@
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\UnitTestProject1\bin\Debug\WF_lab3.exe
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\UnitTestProject1\bin\Debug\WF_lab3.pdb
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\VAdiM\documents\visual studio 2015\Projects\WF_lab3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

@@ -1,0 +1,9 @@
+c:\users\vadim\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\bin\Debug\WF_lab3.exe.config
+c:\users\vadim\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\bin\Debug\WF_lab3.exe
+c:\users\vadim\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\bin\Debug\WF_lab3.pdb
+c:\users\vadim\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\obj\Debug\WF_lab3.csprojResolveAssemblyReference.cache
+c:\users\vadim\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\obj\Debug\WF_lab3.Form1.resources
+c:\users\vadim\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\obj\Debug\WF_lab3.Properties.Resources.resources
+c:\users\vadim\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\obj\Debug\WF_lab3.csproj.GenerateResource.Cache
+c:\users\vadim\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\obj\Debug\WF_lab3.exe
+c:\users\vadim\documents\visual studio 2015\Projects\WF_lab3\WF_lab3\obj\Debug\WF_lab3.pdb
